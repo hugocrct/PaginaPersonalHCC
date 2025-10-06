@@ -1,0 +1,1 @@
+Aquesta activitat servirá per crear una pagina "inicial" molt verda en la qual afegirem alguna de la nostre informació personal.
