@@ -1,6 +1,11 @@
-img {
+#imagenNano {
     height: 300px;
-    width: 700px;
+    width: 600px;
+    margin-left: 20px;
+}
+#imagenf1 {
+    height: 300px;
+    width: 500px;
     margin-left: 20px;
 }
 html {
